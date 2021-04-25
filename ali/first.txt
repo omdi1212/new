@@ -1,0 +1,4 @@
+To use JUnit you must create a separate . java file in your project that will test one of your existing classes.
+ In the Package Explorer area on the left side of the Eclipse windo
+w, right-click the class you want to test and click New 
+→ JUnit Test Case.
